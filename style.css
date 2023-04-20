@@ -1,0 +1,21 @@
+/** Home **/
+
+.home, .playlist {
+    position: relative;
+    margin-left: auto;
+    margin-top: 200px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.home a, .playlist a {
+    text-decoration: none;
+    font-size: 30px;
+    background: rgb(224, 222, 222);
+    color: black;
+    border-radius: 5px;
+}
+
+.home a:hover, .playlist a:hover {
+    text-decoration: underline;
+}
